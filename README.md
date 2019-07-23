@@ -1,6 +1,6 @@
 # Blog_Creator_for_Joomla
 
-This is an  module files for Joomla Blog!
+This is the module files for Joomla Blog!
 
 Creator: crock@vodafone.de
 
