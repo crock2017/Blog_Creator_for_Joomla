@@ -8,6 +8,9 @@ Usage:
 
 Download ZIP.
 
+
 Go to your Joomla! Administrator -> Extention -> Manage -> install.
+
+Go to Joomla! Administrator -> Extention -> Manage -> install.
 Drag your module zip and install it.
  
