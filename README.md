@@ -12,4 +12,18 @@ Download ZIP.
 Go to your Joomla! Administrator -> Extention -> Manage -> install.
 
 Drag your module zip and install it.
+
+Screen Shots:
+
  
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
