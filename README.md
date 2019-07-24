@@ -2,7 +2,7 @@
 
 This is the module files for Joomla Blog!
 
-Creator: crock@vodafone.de
+Creator: andrey.crock@gmail.com
 
 Usage:
 
